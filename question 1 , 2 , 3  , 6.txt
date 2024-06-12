@@ -1,0 +1,22 @@
+question 1
+             
+                Output is : 0
+
+
+
+question 2           
+
+                1 1
+
+
+
+question 3 
+
+
+                2
+
+
+question 6 
+
+
+                49
